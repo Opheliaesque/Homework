@@ -1,0 +1,5 @@
+a = int(input('Enter a number: '))
+b = int(input('Enter another number: '))
+c = int(input('One more number: '))
+print(a+b+c)
+print((a+b+c)/3)
